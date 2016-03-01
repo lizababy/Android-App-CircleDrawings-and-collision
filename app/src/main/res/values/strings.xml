@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CircleDrawings</string>
+
+    <string name="action_settings">Clear Canvas</string>
+</resources>
